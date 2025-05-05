@@ -1,4 +1,0 @@
-# 5. Controller
-
-## 5.1 Launch Controller
-## 5.2 Check Settings
